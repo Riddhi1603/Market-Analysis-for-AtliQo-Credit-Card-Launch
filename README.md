@@ -60,6 +60,7 @@ The dataset includes the following features:
 ## Results
 
 The analysis indicates that the age group of 18-25 years is an untapped market for credit cards. This segment has limited credit history and lower credit scores, suggesting an opportunity for Atliqo Bank to offer tailored credit products to help build credit history and increase credit card usage.
+![image](https://github.com/user-attachments/assets/19f216d2-9eae-4675-8483-003f940699c8)
 
 ## Repository Contents
 
