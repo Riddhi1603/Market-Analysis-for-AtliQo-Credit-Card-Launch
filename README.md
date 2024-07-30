@@ -12,11 +12,7 @@ This project focuses on identifying the target market for Atliqo Bank's new cred
   - [Data Visualization](#data-visualization)
 - [Key Findings](#key-findings)
 - [Results](#results)
-- [Repository Contents](#repository-contents)
-- [How to Use](#how-to-use)
-- [License](#license)
-- [Contact](#contact)
-
+-
 ## Data Description
 
 The dataset includes the following features:
